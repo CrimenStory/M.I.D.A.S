@@ -1,0 +1,431 @@
+{
+    "ID": 1205,
+    "locality": {
+        "mun": "Playa",
+        "locator": {
+            "phones": {
+                "mobile": "59495759",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.118857756567763,
+                "lng": -82.42952136001638
+            }
+        }
+    },
+    "name": "Amalfi",
+    "type_cuisine": [
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "22:30"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "22:30"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "22:30"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "22:30"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "22:30"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "22:30"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "22:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.1,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": 4.4
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil",
+        "euro"
+    ],
+    "service_details": [
+        "generador",
+        "wifi",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "bruschetta",
+                "price": 1600.0,
+                "description": []
+            },
+            {
+                "item": "bruschetta_amalfi",
+                "price": 1920.0,
+                "description": []
+            },
+            {
+                "item": "focaccia_clasica",
+                "price": 1280.0,
+                "description": []
+            },
+            {
+                "item": "parmigiana",
+                "price": 2240.0,
+                "description": []
+            },
+            {
+                "item": "carpaccio_pulpo",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "carpaccio_res",
+                "price": 4160.0,
+                "description": []
+            },
+            {
+                "item": "carpaccio_atun",
+                "price": 3520.0,
+                "description": []
+            },
+            {
+                "item": "focaccia_500",
+                "price": 1280.0,
+                "description": []
+            },
+            {
+                "item": "focaccia_con_prosciutto",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "focaccia_pomodoro_e_rucola",
+                "price": 2560.0,
+                "description": []
+            },
+            {
+                "item": "focaccia_salume_del_giorno_e_formaggio",
+                "price": 3200.0,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "salsiccia_italiana_la_plancha",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "fantasia_di_mare",
+                "price": 4800.0,
+                "description": []
+            },
+            {
+                "item": "gambari_al_limone",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "profumo_mediterraneo",
+                "price": 5120.0,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza_margarita",
+                "price": 1920.0,
+                "description": []
+            },
+            {
+                "item": "pizza_de_la_casa",
+                "price": 3520.0,
+                "description": []
+            },
+            {
+                "item": "pizza_vegetariana",
+                "price": 2560.0,
+                "description": []
+            },
+            {
+                "item": "pizza_mixta",
+                "price": 3200.0,
+                "description": []
+            },
+            {
+                "item": "pizza_de_atun",
+                "price": 3200.0,
+                "description": []
+            },
+            {
+                "item": "pizza_de_brocoli_y_salchicha",
+                "price": 2880.0,
+                "description": []
+            },
+            {
+                "item": "pizza_diavola",
+                "price": 3880.0,
+                "description": []
+            },
+            {
+                "item": "pizza_de_serrano",
+                "price": 3200.0,
+                "description": []
+            },
+            {
+                "item": "pizza_romana",
+                "price": 3200.0,
+                "description": []
+            },
+            {
+                "item": "pizza_de_jamon_barra",
+                "price": 2560.0,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "pomodoro_fresco",
+                "price": 3520.0,
+                "description": []
+            },
+            {
+                "item": "carbonara",
+                "price": 3520.0,
+                "description": []
+            },
+            {
+                "item": "amatriciana",
+                "price": 3520.0,
+                "description": []
+            },
+            {
+                "item": "carbonara_salsiccia",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "puttanesca",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "ragu_malale",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "zucca_e_salsiccia",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "funghi_e_salsiccia",
+                "price": 4800.0,
+                "description": []
+            },
+            {
+                "item": "penne_a_la_sorrentina",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "spaghetti_con_bottarga",
+                "price": 3200.0,
+                "description": []
+            },
+            {
+                "item": "penne_al_salmon",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "pasta_amalfi",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "spaghetti_cetara",
+                "price": 3840.0,
+                "description": []
+            },
+            {
+                "item": "linguine_con_calamar",
+                "price": 5120.0,
+                "description": []
+            },
+            {
+                "item": "pasta_mediterranea",
+                "price": 5120.0,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "torta_al_limon",
+                "price": 1280.0,
+                "description": []
+            },
+            {
+                "item": "tortino_al_cioccolato",
+                "price": 1600.0,
+                "description": []
+            },
+            {
+                "item": "profiterol",
+                "price": 1280.0,
+                "description": []
+            },
+            {
+                "item": "tiramisu",
+                "price": 1280.0,
+                "description": []
+            },
+            {
+                "item": "tiramisu_pan_di_stelle",
+                "price": 1600.0,
+                "description": []
+            },
+            {
+                "item": "delicia_del_dia",
+                "price": 1280.0,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 980.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "cuba_libre",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "cubanito",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "caipirinna",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "caipirissima",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "sangria",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "gin_tonic",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "pinna_colada",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "negroni",
+                "price": 2240.0,
+                "description": []
+            },
+            {
+                "item": "copa_de_vino",
+                "price": 1260.0,
+                "description": []
+            },
+            {
+                "item": "copa_de_vino_italiano",
+                "price": 1680.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua_nacional",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "agua_importada",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "refresco_nacional",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "refresco_importado",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "limonada",
+                "price": 840.0,
+                "description": []
+            },
+            {
+                "item": "jugo_natural",
+                "price": 700.0,
+                "description": []
+            }
+        ]
+    }
+}

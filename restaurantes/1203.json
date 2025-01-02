@@ -1,0 +1,482 @@
+{
+    "ID": 1203,
+    "locality": {
+        "mun": "Playa",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "72125013"
+            },
+            "map": {
+                "lat": 23.12361712886297,
+                "lng": -82.4271050650417
+            }
+        }
+    },
+    "name": "28 y Mar",
+    "type_cuisine": [
+        "criolla",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:30",
+            "closing": "24:00"
+        },
+        "tuesday": {
+            "opening": "08:30",
+            "closing": "24:00"
+        },
+        "wednesday": {
+            "opening": "08:30",
+            "closing": "24:00"
+        },
+        "thursday": {
+            "opening": "08:30",
+            "closing": "24:00"
+        },
+        "friday": {
+            "opening": "08:30",
+            "closing": "24:00"
+        },
+        "saturday": {
+            "opening": "08:30",
+            "closing": "24:00"
+        },
+        "sunday": {
+            "opening": "08:30",
+            "closing": "24:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.7,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 3.8
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "generador",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "desayuno_europeo",
+                "price": 1650.0,
+                "description": null
+            },
+            {
+                "item": "desayuno_americano",
+                "price": 1650.0,
+                "description": null
+            },
+            {
+                "item": "desayuno_miramar",
+                "price": 2150.0,
+                "description": null
+            },
+            {
+                "item": "desayuno_continental",
+                "price": 2800.0,
+                "description": null
+            },
+            {
+                "item": "ensalada_de_frutas",
+                "price": 700.0,
+                "description": null
+            },
+            {
+                "item": "tortilla_natural",
+                "price": 750.0,
+                "description": null
+            },
+            {
+                "item": "huevo_frito_o_revuelto_con_bacon",
+                "price": 1050.0,
+                "description": null
+            },
+            {
+                "item": "mini_bocadito_de_jamon_y_queso",
+                "price": 800.0,
+                "description": null
+            },
+            {
+                "item": "tostadas_con_mantequilla",
+                "price": 650.0,
+                "description": null
+            },
+            {
+                "item": "crepes",
+                "price": 750.0,
+                "description": null
+            }
+        ],
+        "starters": [
+            {
+                "item": "crema_aurora",
+                "price": 7500.0,
+                "description": []
+            },
+            {
+                "item": "crema_de_queso",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "crema_virginia",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "tapas_variadas",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "tapas_de_croquetas",
+                "price": 1250.0,
+                "description": []
+            },
+            {
+                "item": "tostones_rellenos",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "brusquetas",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "bolitas_de_queso",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "empanadas_de_queso_azul",
+                "price": 1050.0,
+                "description": []
+            },
+            {
+                "item": "empanadas_de_bolonesa",
+                "price": 1050.0,
+                "description": []
+            },
+            {
+                "item": "fajitas_de_pollo",
+                "price": 1450.0,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa_jamon_y_queso",
+                "price": 1800.0,
+                "description": []
+            },
+            {
+                "item": "hamburguesa_jamon_serrano",
+                "price": 1950.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_pepito",
+                "price": 3150.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_paquito",
+                "price": 2150.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_elena_ruz",
+                "price": 1850.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_bocadito_de_atun",
+                "price": 1450.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_pollo",
+                "price": 1650.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_jamon_serrano",
+                "price": 2150.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_atun",
+                "price": 1750.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_bolonesa",
+                "price": 2050.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_jamon_pierna_barra_y_chorizo",
+                "price": 2050.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_vegetariano",
+                "price": 1350.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_pollo_y_bacon",
+                "price": 2050.0,
+                "description": []
+            },
+            {
+                "item": "sandwich_de_jamon_y_queso",
+                "price": 1750.0,
+                "description": []
+            },
+            {
+                "item": "pechuga_de_pollo",
+                "price": 3500.0,
+                "description": []
+            },
+            {
+                "item": "solomillo_de_res",
+                "price": 6500.0,
+                "description": []
+            },
+            {
+                "item": "solomillo_de_cerdo",
+                "price": 4500.0,
+                "description": []
+            },
+            {
+                "item": "pollo_y_cerdo",
+                "price": 4000.0,
+                "description": []
+            },
+            {
+                "item": "pollo_y_res",
+                "price": 5000.0,
+                "description": []
+            },
+            {
+                "item": "res_y_cerdo",
+                "price": 5500.0,
+                "description": []
+            },
+            {
+                "item": "trio_de_fantasia",
+                "price": 7250.0,
+                "description": []
+            },
+            {
+                "item": "ensalada_primavera",
+                "price": 1350.0,
+                "description": []
+            },
+            {
+                "item": "ensalada_caprichosa",
+                "price": 1750.0,
+                "description": []
+            },
+            {
+                "item": "ensalada_verano",
+                "price": 1650.0,
+                "description": []
+            },
+            {
+                "item": "ensalada_marinera",
+                "price": 1600.0,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "espagueti",
+                "price": 1150.0,
+                "description": []
+            },
+            {
+                "item": "lasana_de_jamon",
+                "price": 1750.0,
+                "description": []
+            },
+            {
+                "item": "lasana_de_bolonesa",
+                "price": 2150.0,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 650.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "jugo_de_fruta_natural",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "jugo_de_caja_importado",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "batido_de_fruta",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "suero_de_helado",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "refresco_nacional",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "refresco_importado",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "agua_natural",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "agua_natural_importada",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "agua_carbonatada",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "agua_carbonatada_importada",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "agua_tonica_mg",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "agua_tonica_schweppes",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "kermato",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "red_bull",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "cafe_expresso",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cafe_americano",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cafe_nespresso",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "cafe_bombon",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "cafe_capuchino",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "cafe_capuchino_nespresso",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "cafe_cortado",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cafe_con_leche",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "cafe_irlandes",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "frapuccino",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "chocolate_a_la_espanola",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "te_caliente_o_frio",
+                "price": 350.0,
+                "description": []
+            }
+        ]
+    }
+}

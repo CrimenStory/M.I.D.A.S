@@ -1,0 +1,347 @@
+{
+    "ID": 1209,
+    "locality": {
+        "mun": "Playa",
+        "locator": {
+            "phones": {
+                "mobile": "56593890",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.105644168847277,
+                "lng": -82.44212999530603
+            }
+        }
+    },
+    "name": "La Catrina",
+    "type_cuisine": [
+        "mexicana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.6,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "enzona"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "quesadillas_con_tortillas_de_trigo_con_queso",
+                "price": 1700.0,
+                "description": []
+            },
+            {
+                "item": "quesadillas_con_queso_y_champinones",
+                "price": 2300.0,
+                "description": []
+            },
+            {
+                "item": "quesadillas_con_queso_y_chorizo_iberico",
+                "price": 2300.0,
+                "description": []
+            },
+            {
+                "item": "tacos_envenenados",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "tacos_dorados",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "frijoles_refritos",
+                "price": 1350.0,
+                "description": []
+            },
+            {
+                "item": "ceviche_acapulqueño",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "ceviche_de_atun_rojo",
+                "price": 3950.0,
+                "description": []
+            },
+            {
+                "item": "carpaccio_de_res",
+                "price": 4200.0,
+                "description": []
+            },
+            {
+                "item": "carpaccio_de_pulpo",
+                "price": 3800.0,
+                "description": []
+            },
+            {
+                "item": "tostada_de_atun",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "aguachile_de_camaron",
+                "price": 2900.0,
+                "description": []
+            },
+            {
+                "item": "trio_de_ceviches",
+                "price": 3800.0,
+                "description": []
+            },
+            {
+                "item": "salmorejo_la_catrina_pequena",
+                "price": 1550.0,
+                "description": []
+            },
+            {
+                "item": "salmorejo_la_catrina_grande",
+                "price": 2100.0,
+                "description": []
+            },
+            {
+                "item": "guacamole",
+                "price": 1750.0,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo_en_mole",
+                "price": 3200.0,
+                "description": []
+            },
+            {
+                "item": "albondigas_de_la_abuela",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "quesadillas_de_huitlacoche",
+                "price": 1700.0,
+                "description": []
+            },
+            {
+                "item": "chilaquiles",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "pescado_del_dia",
+                "price": 3250.0,
+                "description": []
+            },
+            {
+                "item": "langosta_grille",
+                "price": 4600.0,
+                "description": []
+            },
+            {
+                "item": "calamares_al_ajillo",
+                "price": 3800.0,
+                "description": []
+            },
+            {
+                "item": "carnitas_michoacanas",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "tacos_al_pastor",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "cochinita_pibil",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "tacos_de_res",
+                "price": 3100.0,
+                "description": []
+            },
+            {
+                "item": "fajitas_de_pollo",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "fajitas_de_res",
+                "price": 3050.0,
+                "description": []
+            },
+            {
+                "item": "festival_de_tacos_6",
+                "price": 4600.0,
+                "description": []
+            },
+            {
+                "item": "festival_de_tacos_12",
+                "price": 8900.0,
+                "description": []
+            },
+            {
+                "item": "ensenada_de_pescado",
+                "price": 2900.0,
+                "description": []
+            },
+            {
+                "item": "ensenada_de_camaron",
+                "price": 3000.0,
+                "description": []
+            },
+            {
+                "item": "gobernador",
+                "price": 3350.0,
+                "description": []
+            },
+            {
+                "item": "langosta_estilo_baja_california",
+                "price": 3050.0,
+                "description": []
+            },
+            {
+                "item": "festival_de_tacos_del_mar",
+                "price": 8800.0,
+                "description": []
+            },
+            {
+                "item": "solomillo_de_res",
+                "price": 6900.0,
+                "description": []
+            },
+            {
+                "item": "entrecot",
+                "price": 10900.0,
+                "description": []
+            },
+            {
+                "item": "chuleton",
+                "price": 24700.0,
+                "description": []
+            },
+            {
+                "item": "tomahawk",
+                "price": 21000.0,
+                "description": []
+            },
+            {
+                "item": "quesadilla_tacos_de_fajitas_de_pollo",
+                "price": 2450.0,
+                "description": []
+            },
+            {
+                "item": "quesadilla_tacos_de_carne_de_cerdp",
+                "price": 2300.0,
+                "description": []
+            },
+            {
+                "item": "eperlán_de_pollo_y_papas_fritas",
+                "price": 2450.0,
+                "description": []
+            },
+            {
+                "item": "eperlán_de_pescado_y_papas_fritas",
+                "price": 2450.0,
+                "description": []
+            },
+            {
+                "item": "bistec_de_res_y_papas_fritas",
+                "price": 2900.0,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "tartas_del_dia",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "pie_de_limon",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "tiramisu",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "cheesecake",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "gelato_italiano_artesanal",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "flan_casero",
+                "price": 1400.0,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}
