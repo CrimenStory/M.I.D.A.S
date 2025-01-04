@@ -36,10 +36,3 @@
 - JSON
 - Jupyter Notebook
 
-## Diario
-
-
-### 20250101
-- Creado nuevo repositorio
-- 190 restaurantes subidos
-- README subido
