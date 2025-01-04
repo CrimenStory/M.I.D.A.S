@@ -15,7 +15,6 @@
     },
     "name": "Bar Tropicana",
     "type_cuisine": [
-        "criolla",
         "cocteles"
     ],
     "schedule": {
